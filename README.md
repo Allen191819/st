@@ -1,0 +1,2 @@
+# st
+Simple term config.
